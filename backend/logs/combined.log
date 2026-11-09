@@ -1,0 +1,971 @@
+2026-11-09 07:26:50 [INFO]: 🔄 Conectando aos bancos de dados... 
+2026-11-09 07:27:41 [INFO]: 🔄 Conectando aos bancos de dados... 
+2026-11-09 07:28:19 [INFO]: 📊 Status das conexões: {"sqlserver":"erro: Failed to connect to DESKTOP-DV49EQB:1433 - Could not connect (sequence)","mysql":"ok","mongodb":"erro: CC380000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:openssl\\ssl\\record\\rec_layer_s3.c:918:SSL alert number 80\n"}
+2026-11-09 07:28:19 [INFO]: 🚀 Servidor rodando em http://localhost:3000 
+2026-11-09 07:28:19 [INFO]: 📚 Documentação da API: http://localhost:3000/api 
+2026-11-09 07:28:19 [INFO]: 🎨 Frontend: http://localhost:3000/ 
+2026-11-09 07:38:23 [INFO]: 🛑 [SIGINT] Encerrando servidor graciosamente... 
+2026-11-09 07:39:17 [INFO]: 🔄 Conectando aos bancos de dados... 
+2026-11-09 07:40:13 [INFO]: 📊 Status das conexões: {"sqlserver":"erro: Failed to connect to DESKTOP-DV49EQB:1433 - Could not connect (sequence)","mysql":"ok","mongodb":"erro: querySrv ETIMEOUT _mongodb._tcp.cluster0.an7dnw0.mongodb.net"}
+2026-11-09 07:40:13 [INFO]: 🚀 Servidor rodando em http://localhost:3000 
+2026-11-09 07:40:13 [INFO]: 📚 Documentação da API: http://localhost:3000/api 
+2026-11-09 07:40:13 [INFO]: 🎨 Frontend: http://localhost:3000/ 
+2026-11-09 07:59:29 [INFO]: 🔄 Conectando aos bancos de dados... 
+2026-11-09 07:59:38 [INFO]: 🔄 Conectando aos bancos de dados... 
+2026-11-09 07:59:50 [INFO]: 🔄 Conectando aos bancos de dados... 
+2026-11-09 08:00:06 [INFO]: 🔄 Conectando aos bancos de dados... 
+2026-11-09 08:00:24 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 08:00:36 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 08:00:48 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 08:01:03 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 08:01:47 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 08:02:26 [INFO]: 📊 Status das conexões:
+2026-11-09 08:02:26 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 08:11:32 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 08:12:11 [INFO]: 📊 Status das conexões:
+2026-11-09 08:12:11 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 08:16:13 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 08:16:53 [INFO]: 📊 Status das conexões:
+2026-11-09 08:16:53 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 08:22:28 [INFO]: GET / → 200 (23ms)
+2026-11-09 08:22:28 [INFO]: GET /css/style.css → 200 (6ms)
+2026-11-09 08:22:28 [INFO]: GET /js/app.js → 200 (8ms)
+2026-11-09 08:22:28 [INFO]: GET /api/produtos?db=mongodb → 500 (14ms)
+2026-11-09 08:22:28 [INFO]: GET /favicon.ico → 404 (3ms)
+2026-11-09 08:22:37 [INFO]: GET /api/health → 503 (9143ms)
+2026-11-09 08:36:04 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 08:36:43 [INFO]: 📊 Status das conexões:
+2026-11-09 08:36:43 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 08:38:46 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 08:39:25 [INFO]: 📊 Status das conexões:
+2026-11-09 08:39:25 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 08:49:58 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 08:50:38 [INFO]: 📊 Status das conexões:
+2026-11-09 08:50:38 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 08:51:39 [INFO]: GET / → 200 (25ms)
+2026-11-09 08:51:39 [INFO]: GET /js/app.js → 200 (20ms)
+2026-11-09 08:51:39 [INFO]: GET /css/style.css → 200 (36ms)
+2026-11-09 08:51:40 [INFO]: GET /api/produtos?db=mongodb → 500 (9ms)
+2026-11-09 08:51:43 [INFO]: GET /favicon.ico → 404 (3ms)
+2026-11-09 08:51:49 [INFO]: GET /api/health → 503 (9050ms)
+2026-11-09 08:51:55 [INFO]: GET /api/produtos?db=mongodb → 500 (2ms)
+2026-11-09 08:52:02 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 08:52:02 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 08:53:45 [INFO]: GET / → 200 (3ms)
+2026-11-09 08:53:46 [INFO]: GET /css/style.css → 200 (3ms)
+2026-11-09 08:53:46 [INFO]: GET /js/app.js → 200 (29ms)
+2026-11-09 08:53:46 [INFO]: GET /api/produtos?db=mongodb → 500 (2ms)
+2026-11-09 08:53:46 [INFO]: GET /favicon.ico → 404 (1ms)
+2026-11-09 08:53:53 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 08:53:53 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 08:53:55 [INFO]: GET /api/health → 503 (9090ms)
+2026-11-09 08:54:18 [INFO]: GET /api/produtos?db=mongodb → 500 (1ms)
+2026-11-09 08:54:27 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 08:54:37 [INFO]: GET / → 304 (3ms)
+2026-11-09 08:54:37 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 08:54:37 [INFO]: GET /js/app.js → 304 (4ms)
+2026-11-09 08:54:37 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (6ms)
+2026-11-09 08:54:37 [INFO]: GET /api/produtos?db=mongodb → 500 (2ms)
+2026-11-09 08:54:42 [INFO]: GET /api/produtos?db=mongodb → 500 (1ms)
+2026-11-09 08:54:46 [INFO]: GET /api/health → 503 (8666ms)
+2026-11-09 09:47:34 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 09:48:19 [INFO]: 📊 Status das conexões:
+2026-11-09 09:48:19 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 09:50:00 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 09:50:45 [INFO]: 📊 Status das conexões:
+2026-11-09 09:50:45 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 09:54:21 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 09:55:01 [INFO]: 📊 Status das conexões:
+2026-11-09 09:55:01 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 09:56:38 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 09:57:17 [INFO]: 📊 Status das conexões:
+2026-11-09 09:57:18 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 10:08:05 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 10:08:06 [INFO]: 📊 Status das conexões:
+2026-11-09 10:08:06 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 10:08:06 [INFO]: GET / → 304 (18ms)
+2026-11-09 10:08:07 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 10:08:07 [INFO]: GET /js/app.js → 304 (10ms)
+2026-11-09 10:08:07 [INFO]: GET /api/health → 503 (55ms)
+2026-11-09 10:08:07 [INFO]: GET /api/produtos?db=mongodb → 200 (61ms)
+2026-11-09 10:08:07 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 500 (6ms)
+2026-11-09 10:08:07 [INFO]: GET /favicon.ico → 404 (15ms)
+2026-11-09 10:08:18 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 10:08:18 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (4ms)
+2026-11-09 10:10:18 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 10:10:19 [INFO]: 📊 Status das conexões:
+2026-11-09 10:10:19 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 10:10:41 [INFO]: GET / → 304 (13ms)
+2026-11-09 10:10:41 [INFO]: GET /css/style.css → 304 (7ms)
+2026-11-09 10:10:41 [INFO]: GET /js/app.js → 304 (5ms)
+2026-11-09 10:10:41 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (124ms)
+2026-11-09 10:10:41 [INFO]: GET /api/health → 503 (73ms)
+2026-11-09 10:10:41 [INFO]: GET /api/produtos?db=mongodb → 304 (74ms)
+2026-11-09 10:10:42 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 500 (7ms)
+2026-11-09 10:10:42 [INFO]: GET / → 304 (1ms)
+2026-11-09 10:10:42 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (4ms)
+2026-11-09 10:10:42 [INFO]: GET /css/style.css → 304 (9ms)
+2026-11-09 10:10:42 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 10:10:42 [INFO]: GET /api/health → 503 (14ms)
+2026-11-09 10:10:42 [INFO]: GET /api/produtos?db=mongodb → 304 (56ms)
+2026-11-09 10:10:42 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 500 (2ms)
+2026-11-09 10:10:42 [INFO]: GET / → 304 (2ms)
+2026-11-09 10:10:42 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 10:10:42 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 10:10:42 [INFO]: GET /js/app.js → 304 (4ms)
+2026-11-09 10:10:42 [INFO]: GET / → 304 (2ms)
+2026-11-09 10:10:43 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (6ms)
+2026-11-09 10:10:43 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 10:10:43 [INFO]: GET /js/app.js → 304 (8ms)
+2026-11-09 10:10:43 [INFO]: GET / → 304 (4ms)
+2026-11-09 10:10:43 [INFO]: GET /api/health → 503 (102ms)
+2026-11-09 10:10:43 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (3ms)
+2026-11-09 10:10:43 [INFO]: GET /css/style.css → 304 (5ms)
+2026-11-09 10:10:43 [INFO]: GET /js/app.js → 304 (6ms)
+2026-11-09 10:10:43 [INFO]: GET /api/health → 503 (74ms)
+2026-11-09 10:10:43 [INFO]: GET /api/produtos?db=mongodb → 200 (120ms)
+2026-11-09 10:10:43 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 500 (2ms)
+2026-11-09 10:10:55 [INFO]: GET / → 304 (1ms)
+2026-11-09 10:10:55 [INFO]: GET /css/style.css → 304 (9ms)
+2026-11-09 10:10:55 [INFO]: GET /js/app.js → 304 (15ms)
+2026-11-09 10:10:55 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 10:10:55 [INFO]: GET /api/health → 503 (85ms)
+2026-11-09 10:10:55 [INFO]: GET /api/produtos?db=mongodb → 304 (105ms)
+2026-11-09 10:10:55 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 500 (6ms)
+2026-11-09 10:12:33 [INFO]: GET /api/produtos?db=mongodb → 304 (76ms)
+2026-11-09 10:13:33 [INFO]: POST /api/produtos?db=mongodb → 201 (82ms)
+2026-11-09 10:13:33 [INFO]: GET /api/produtos?db=mongodb → 200 (45ms)
+2026-11-09 12:12:01 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 12:12:01 [INFO]: 📊 Status das conexões:
+2026-11-09 12:12:01 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 12:26:29 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 12:26:30 [INFO]: 📊 Status das conexões:
+2026-11-09 12:26:30 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:08:11 [INFO]: GET / → 304 (10ms)
+2026-11-09 14:12:11 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (16ms)
+2026-11-09 14:12:11 [INFO]: GET /css/style.css → 304 (18ms)
+2026-11-09 14:12:11 [INFO]: GET /js/app.js → 304 (12ms)
+2026-11-09 14:12:11 [INFO]: GET / → 200 (43ms)
+2026-11-09 14:12:11 [INFO]: GET /css/style.css → 200 (12ms)
+2026-11-09 14:12:11 [INFO]: GET /js/app.js → 200 (24ms)
+2026-11-09 14:12:11 [INFO]: GET /api/health → 200 (7ms)
+2026-11-09 14:12:11 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 14:12:11 [INFO]: GET /favicon.ico → 404 (2ms)
+2026-11-09 14:12:27 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 14:12:57 [INFO]: 📊 Status das conexões:
+2026-11-09 14:12:57 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:12:57 [INFO]: GET / → 304 (11ms)
+2026-11-09 14:12:57 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (7ms)
+2026-11-09 14:12:57 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 14:12:57 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 14:12:58 [INFO]: GET / → 304 (4ms)
+2026-11-09 14:12:58 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 14:12:58 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (8ms)
+2026-11-09 14:12:58 [INFO]: GET /js/app.js → 304 (11ms)
+2026-11-09 14:12:58 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:12:58 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 14:12:58 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 14:12:58 [INFO]: GET /js/app.js → 304 (6ms)
+2026-11-09 14:12:58 [INFO]: GET /api/health → 200 (27ms)
+2026-11-09 14:12:58 [INFO]: GET /api/produtos?db=mongodb → 500 (3ms)
+2026-11-09 14:13:01 [INFO]: GET / → 304 (8ms)
+2026-11-09 14:13:01 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 14:13:01 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 14:13:01 [INFO]: GET /js/app.js → 304 (4ms)
+2026-11-09 14:13:01 [INFO]: GET /api/produtos?db=mongodb → 500 (4ms)
+2026-11-09 14:13:01 [INFO]: GET /api/health → 304 (17ms)
+2026-11-09 14:13:02 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:13:02 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 14:13:02 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (5ms)
+2026-11-09 14:13:02 [INFO]: GET /js/app.js → 304 (14ms)
+2026-11-09 14:13:02 [INFO]: GET /api/produtos?db=mongodb → 500 (4ms)
+2026-11-09 14:13:02 [INFO]: GET /api/health → 304 (91ms)
+2026-11-09 14:13:02 [INFO]: GET / → 304 (2ms)
+2026-11-09 14:13:02 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 14:13:02 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 14:13:02 [INFO]: GET /js/app.js → 304 (3ms)
+2026-11-09 14:13:02 [INFO]: GET /api/produtos?db=mongodb → 500 (15ms)
+2026-11-09 14:13:02 [INFO]: GET /api/health → 304 (27ms)
+2026-11-09 14:23:38 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 14:23:38 [INFO]: 📊 Status das conexões:
+2026-11-09 14:23:38 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:23:53 [INFO]: GET / → 304 (11ms)
+2026-11-09 14:23:53 [INFO]: GET /css/style.css → 304 (7ms)
+2026-11-09 14:23:53 [INFO]: GET /js/app.js → 304 (34ms)
+2026-11-09 14:23:53 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (37ms)
+2026-11-09 14:23:53 [INFO]: GET /favicon.ico → 404 (15ms)
+2026-11-09 14:23:53 [INFO]: GET /api/produtos?db=mongodb → 200 (40ms)
+2026-11-09 14:23:53 [INFO]: GET /api/health → 200 (72ms)
+2026-11-09 14:23:53 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 200 (35ms)
+2026-11-09 14:23:54 [INFO]: GET / → 304 (3ms)
+2026-11-09 14:23:54 [INFO]: GET /css/style.css → 304 (4ms)
+2026-11-09 14:23:54 [INFO]: GET /js/app.js → 304 (19ms)
+2026-11-09 14:23:54 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (5ms)
+2026-11-09 14:23:54 [INFO]: GET /api/health → 304 (74ms)
+2026-11-09 14:23:54 [INFO]: GET /api/produtos?db=mongodb → 304 (19ms)
+2026-11-09 14:23:54 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (14ms)
+2026-11-09 14:23:55 [INFO]: GET / → 304 (3ms)
+2026-11-09 14:23:55 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (3ms)
+2026-11-09 14:23:55 [INFO]: GET /css/style.css → 304 (21ms)
+2026-11-09 14:23:55 [INFO]: GET /js/app.js → 304 (22ms)
+2026-11-09 14:23:55 [INFO]: GET /api/health → 304 (15ms)
+2026-11-09 14:23:55 [INFO]: GET /api/produtos?db=mongodb → 304 (20ms)
+2026-11-09 14:23:55 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (24ms)
+2026-11-09 14:24:00 [INFO]: GET /movimentacoes.html → 404 (2ms)
+2026-11-09 14:24:00 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 14:24:04 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 14:24:04 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 14:24:04 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 14:24:08 [INFO]: GET /api/produtos?db=mongodb → 304 (21ms)
+2026-11-09 14:24:45 [INFO]: POST /api/produtos?db=mongodb → 201 (59ms)
+2026-11-09 14:24:45 [INFO]: GET /api/produtos?db=mongodb → 200 (13ms)
+2026-11-09 14:27:16 [INFO]: GET / → 304 (6ms)
+2026-11-09 14:27:16 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 14:27:16 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 14:27:16 [INFO]: GET /js/app.js → 304 (6ms)
+2026-11-09 14:27:16 [INFO]: GET /api/health → 304 (12ms)
+2026-11-09 14:27:16 [INFO]: GET /api/produtos?db=mongodb → 304 (11ms)
+2026-11-09 14:27:16 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (39ms)
+2026-11-09 14:27:44 [INFO]: POST /api/nosql/migrar/mongo-para-mysql → 200 (435ms)
+2026-11-09 14:29:03 [INFO]: GET / → 200 (9ms)
+2026-11-09 14:29:04 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 14:29:04 [INFO]: GET /css/style.css → 200 (11ms)
+2026-11-09 14:29:04 [INFO]: GET /js/app.js → 200 (25ms)
+2026-11-09 14:29:04 [INFO]: GET /api/health → 200 (48ms)
+2026-11-09 14:29:04 [INFO]: GET /api/produtos?db=mongodb → 200 (60ms)
+2026-11-09 14:29:04 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 200 (15ms)
+2026-11-09 14:29:04 [INFO]: GET /favicon.ico → 404 (2ms)
+2026-11-09 14:30:34 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:30:34 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 14:30:34 [INFO]: GET /css/style.css → 304 (13ms)
+2026-11-09 14:30:34 [INFO]: GET /js/app.js → 304 (9ms)
+2026-11-09 14:30:34 [INFO]: GET /api/health → 304 (19ms)
+2026-11-09 14:30:34 [INFO]: GET /api/produtos?db=mongodb → 304 (22ms)
+2026-11-09 14:30:34 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (9ms)
+2026-11-09 14:30:35 [INFO]: GET / → 304 (5ms)
+2026-11-09 14:30:35 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 14:30:35 [INFO]: GET /css/style.css → 304 (13ms)
+2026-11-09 14:30:35 [INFO]: GET /js/app.js → 304 (15ms)
+2026-11-09 14:30:35 [INFO]: GET /api/health → 304 (40ms)
+2026-11-09 14:30:35 [INFO]: GET /api/produtos?db=mongodb → 304 (26ms)
+2026-11-09 14:30:35 [INFO]: GET / → 304 (6ms)
+2026-11-09 14:30:35 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 14:30:35 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 14:30:35 [INFO]: GET /js/app.js → 304 (2ms)
+2026-11-09 14:30:35 [INFO]: GET / → 304 (2ms)
+2026-11-09 14:30:35 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 14:30:35 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 14:30:35 [INFO]: GET /js/app.js → 304 (7ms)
+2026-11-09 14:30:36 [INFO]: GET /api/health → 200 (83ms)
+2026-11-09 14:30:36 [INFO]: GET /api/produtos?db=mongodb → 200 (85ms)
+2026-11-09 14:30:36 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:30:36 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (3ms)
+2026-11-09 14:30:36 [INFO]: GET /css/style.css → 304 (10ms)
+2026-11-09 14:30:36 [INFO]: GET /js/app.js → 304 (2ms)
+2026-11-09 14:30:36 [INFO]: GET /api/health → 304 (15ms)
+2026-11-09 14:30:36 [INFO]: GET /api/produtos?db=mongodb → 304 (36ms)
+2026-11-09 14:30:36 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 200 (11ms)
+2026-11-09 14:31:12 [INFO]: GET / → 304 (2ms)
+2026-11-09 14:31:13 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 14:31:13 [INFO]: GET /css/style.css → 304 (10ms)
+2026-11-09 14:31:13 [INFO]: GET /js/app.js → 304 (2ms)
+2026-11-09 14:31:13 [INFO]: GET /api/health → 304 (56ms)
+2026-11-09 14:31:13 [INFO]: GET /api/produtos?db=mongodb → 304 (76ms)
+2026-11-09 14:31:13 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 14:31:13 [INFO]: GET / → 304 (2ms)
+2026-11-09 14:31:13 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 14:31:13 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 14:31:13 [INFO]: GET /js/app.js → 304 (2ms)
+2026-11-09 14:31:13 [INFO]: GET /api/health → 304 (9ms)
+2026-11-09 14:31:13 [INFO]: GET /api/produtos?db=mongodb → 304 (13ms)
+2026-11-09 14:31:13 [INFO]: GET / → 304 (2ms)
+2026-11-09 14:31:13 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (17ms)
+2026-11-09 14:31:13 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 14:31:13 [INFO]: GET /css/style.css → 304 (20ms)
+2026-11-09 14:31:13 [INFO]: GET /js/app.js → 304 (2ms)
+2026-11-09 14:31:14 [INFO]: GET / → 304 (2ms)
+2026-11-09 14:31:14 [INFO]: GET /api/health → 304 (91ms)
+2026-11-09 14:31:14 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (3ms)
+2026-11-09 14:31:14 [INFO]: GET /css/style.css → 304 (7ms)
+2026-11-09 14:31:14 [INFO]: GET /js/app.js → 304 (18ms)
+2026-11-09 14:31:14 [INFO]: GET / → 304 (2ms)
+2026-11-09 14:31:14 [INFO]: GET /api/health → 200 (53ms)
+2026-11-09 14:31:14 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 14:31:14 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 14:31:14 [INFO]: GET /js/app.js → 304 (8ms)
+2026-11-09 14:31:14 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:31:14 [INFO]: GET /api/health → 200 (40ms)
+2026-11-09 14:31:14 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 14:31:14 [INFO]: GET /js/app.js → 304 (2ms)
+2026-11-09 14:31:14 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (5ms)
+2026-11-09 14:31:14 [INFO]: GET / → 304 (2ms)
+2026-11-09 14:31:14 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 14:31:14 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 14:31:14 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 14:31:15 [INFO]: GET /api/health → 200 (61ms)
+2026-11-09 14:31:15 [INFO]: GET /api/produtos?db=mongodb → 200 (24ms)
+2026-11-09 14:31:15 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (11ms)
+2026-11-09 14:31:18 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:31:18 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 14:31:18 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 14:31:18 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (4ms)
+2026-11-09 14:31:18 [INFO]: GET /api/health → 304 (11ms)
+2026-11-09 14:31:18 [INFO]: GET /api/produtos?db=mongodb → 304 (32ms)
+2026-11-09 14:31:18 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (25ms)
+2026-11-09 14:31:18 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:31:18 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 14:31:18 [INFO]: GET /js/app.js → 304 (10ms)
+2026-11-09 14:31:18 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (3ms)
+2026-11-09 14:31:18 [INFO]: GET /api/health → 304 (27ms)
+2026-11-09 14:31:18 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:31:18 [INFO]: GET /api/produtos?db=mongodb → 304 (32ms)
+2026-11-09 14:31:18 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 14:31:18 [INFO]: GET /js/app.js → 304 (19ms)
+2026-11-09 14:31:18 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (119ms)
+2026-11-09 14:31:18 [INFO]: GET / → 304 (6ms)
+2026-11-09 14:31:18 [INFO]: GET /api/produtos?db=mongodb → 200 (23ms)
+2026-11-09 14:31:18 [INFO]: GET /api/health → 304 (26ms)
+2026-11-09 14:31:18 [INFO]: GET /css/style.css → 304 (5ms)
+2026-11-09 14:31:18 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 14:31:18 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (4ms)
+2026-11-09 14:31:18 [INFO]: GET /api/health → 304 (29ms)
+2026-11-09 14:31:18 [INFO]: GET /api/produtos?db=mongodb → 304 (44ms)
+2026-11-09 14:31:18 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:31:19 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 14:31:19 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (16ms)
+2026-11-09 14:31:19 [INFO]: GET /js/app.js → 304 (16ms)
+2026-11-09 14:31:19 [INFO]: GET /api/health → 304 (10ms)
+2026-11-09 14:31:19 [INFO]: GET /api/produtos?db=mongodb → 304 (12ms)
+2026-11-09 14:31:19 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 200 (12ms)
+2026-11-09 14:31:20 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:31:20 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 14:31:20 [INFO]: GET /js/app.js → 304 (2ms)
+2026-11-09 14:31:20 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (12ms)
+2026-11-09 14:31:20 [INFO]: GET /api/health → 304 (13ms)
+2026-11-09 14:31:20 [INFO]: GET /api/produtos?db=mongodb → 304 (96ms)
+2026-11-09 14:31:20 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (13ms)
+2026-11-09 14:31:20 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:31:20 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 14:31:20 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 14:31:20 [INFO]: GET /js/app.js → 304 (6ms)
+2026-11-09 14:31:21 [INFO]: GET / → 304 (8ms)
+2026-11-09 14:31:21 [INFO]: GET /api/health → 304 (16ms)
+2026-11-09 14:31:21 [INFO]: GET /css/style.css → 304 (7ms)
+2026-11-09 14:31:21 [INFO]: GET /js/app.js → 304 (38ms)
+2026-11-09 14:31:21 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 14:31:21 [INFO]: GET /api/health → 304 (6ms)
+2026-11-09 14:31:21 [INFO]: GET /api/produtos?db=mongodb → 200 (12ms)
+2026-11-09 14:31:21 [INFO]: GET / → 304 (2ms)
+2026-11-09 14:31:21 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 14:31:21 [INFO]: GET /js/app.js → 304 (3ms)
+2026-11-09 14:31:21 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 14:31:21 [INFO]: GET /api/health → 304 (42ms)
+2026-11-09 14:31:21 [INFO]: GET /api/produtos?db=mongodb → 304 (57ms)
+2026-11-09 14:31:21 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 200 (12ms)
+2026-11-09 14:31:30 [INFO]: GET /movimentacoes.html → 404 (1ms)
+2026-11-09 14:31:30 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 14:40:44 [INFO]: 🌱 Iniciando seed de dados...
+2026-11-09 14:40:44 [INFO]: 🔄 Populando SQL Server...
+2026-11-09 14:40:44 [INFO]: 🔄 Populando MySQL...
+2026-11-09 14:40:44 [INFO]: 🔄 Populando MongoDB...
+2026-11-09 14:40:44 [INFO]:    ✅ 4 usuários
+2026-11-09 14:40:44 [INFO]:    ✅ 8 categorias
+2026-11-09 14:40:44 [INFO]:    ✅ 6 fornecedores
+2026-11-09 14:40:44 [INFO]:    ✅ 26 produtos
+2026-11-09 14:40:45 [INFO]:    ✅ 4 usuários
+2026-11-09 14:40:45 [INFO]:    ✅ 173 movimentações
+2026-11-09 14:40:45 [INFO]:    ✅ 6 alertas de estoque baixo
+2026-11-09 14:40:45 [INFO]: ✅ MongoDB populado com sucesso!
+2026-11-09 14:40:45 [INFO]:    ✅ 8 categorias
+2026-11-09 14:40:45 [INFO]:    ✅ 6 fornecedores
+2026-11-09 14:40:45 [INFO]:    ✅ 26 produtos
+2026-11-09 14:40:50 [INFO]:    ✅ 187 movimentações
+2026-11-09 14:42:08 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 14:42:08 [INFO]: 📊 Status das conexões:
+2026-11-09 14:42:08 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:42:14 [INFO]: GET / → 304 (11ms)
+2026-11-09 14:42:14 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 14:42:14 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (35ms)
+2026-11-09 14:42:14 [INFO]: GET /js/app.js → 304 (2ms)
+2026-11-09 14:42:14 [INFO]: GET /api/health → 304 (14ms)
+2026-11-09 14:42:15 [INFO]: GET /api/produtos?db=mongodb → 200 (27ms)
+2026-11-09 14:42:15 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 200 (13ms)
+2026-11-09 14:45:18 [INFO]: GET / → 304 (4ms)
+2026-11-09 14:45:18 [INFO]: GET /css/style.css → 304 (5ms)
+2026-11-09 14:45:18 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (12ms)
+2026-11-09 14:45:18 [INFO]: GET /js/app.js → 304 (15ms)
+2026-11-09 14:45:19 [INFO]: GET /api/health → 304 (48ms)
+2026-11-09 14:45:19 [INFO]: GET /api/produtos?db=mongodb → 304 (73ms)
+2026-11-09 14:45:19 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 14:45:19 [INFO]: GET / → 304 (3ms)
+2026-11-09 14:45:19 [INFO]: GET /css/style.css → 304 (7ms)
+2026-11-09 14:45:19 [INFO]: GET /js/app.js → 304 (3ms)
+2026-11-09 14:45:20 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (19ms)
+2026-11-09 14:45:20 [INFO]: GET /api/health → 304 (74ms)
+2026-11-09 14:45:20 [INFO]: GET /api/produtos?db=mongodb → 304 (90ms)
+2026-11-09 14:45:20 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (14ms)
+2026-11-09 14:45:26 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:45:26 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 14:45:26 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 14:45:26 [INFO]: GET /api/health → 304 (13ms)
+2026-11-09 14:45:26 [INFO]: GET /api/produtos?db=mongodb → 304 (19ms)
+2026-11-09 14:45:26 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 14:45:27 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:45:27 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 14:45:27 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 14:45:27 [INFO]: GET /api/health → 304 (19ms)
+2026-11-09 14:45:27 [INFO]: GET /api/produtos?db=mongodb → 304 (16ms)
+2026-11-09 14:45:27 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 14:48:46 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:48:46 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 14:48:46 [INFO]: GET /js/app.js → 304 (5ms)
+2026-11-09 14:48:46 [INFO]: GET /api/health → 304 (22ms)
+2026-11-09 14:48:46 [INFO]: GET /api/produtos?db=mongodb → 304 (38ms)
+2026-11-09 14:48:46 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (10ms)
+2026-11-09 14:51:34 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 14:51:34 [INFO]: 📊 Status das conexões:
+2026-11-09 14:51:34 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:51:53 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 14:51:54 [INFO]: 📊 Status das conexões:
+2026-11-09 14:51:54 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:52:14 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 14:52:14 [INFO]: 📊 Status das conexões:
+2026-11-09 14:52:14 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:52:22 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 14:52:22 [INFO]: 📊 Status das conexões:
+2026-11-09 14:52:22 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:52:58 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 14:52:59 [INFO]: 📊 Status das conexões:
+2026-11-09 14:52:59 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:53:31 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 14:53:32 [INFO]: 📊 Status das conexões:
+2026-11-09 14:53:32 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:54:15 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 14:54:15 [INFO]: 📊 Status das conexões:
+2026-11-09 14:54:15 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:54:32 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 14:54:33 [INFO]: 📊 Status das conexões:
+2026-11-09 14:54:33 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:55:03 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 14:55:03 [INFO]: 📊 Status das conexões:
+2026-11-09 14:55:03 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:55:13 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 14:55:13 [INFO]: 📊 Status das conexões:
+2026-11-09 14:55:13 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:59:07 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 14:59:08 [INFO]: 📊 Status das conexões:
+2026-11-09 14:59:08 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 14:59:36 [INFO]: GET / → 200 (19ms)
+2026-11-09 14:59:36 [INFO]: GET /css/style.css → 200 (19ms)
+2026-11-09 14:59:36 [INFO]: GET /js/app.js → 200 (17ms)
+2026-11-09 14:59:36 [INFO]: GET /api/health → 304 (39ms)
+2026-11-09 14:59:36 [INFO]: GET /api/produtos?db=mongodb → 304 (64ms)
+2026-11-09 14:59:36 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (14ms)
+2026-11-09 14:59:37 [INFO]: GET / → 304 (4ms)
+2026-11-09 14:59:37 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 14:59:37 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 14:59:37 [INFO]: GET /api/health → 304 (16ms)
+2026-11-09 14:59:37 [INFO]: GET /api/produtos?db=mongodb → 304 (30ms)
+2026-11-09 14:59:37 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 14:59:37 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:59:37 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 14:59:37 [INFO]: GET /js/app.js → 304 (5ms)
+2026-11-09 14:59:37 [INFO]: GET /api/health → 304 (9ms)
+2026-11-09 14:59:37 [INFO]: GET /api/produtos?db=mongodb → 304 (21ms)
+2026-11-09 14:59:37 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 14:59:51 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:59:51 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 14:59:51 [INFO]: GET /js/app.js → 304 (19ms)
+2026-11-09 14:59:51 [INFO]: GET /api/health → 304 (19ms)
+2026-11-09 14:59:51 [INFO]: GET /api/produtos?db=mongodb → 304 (21ms)
+2026-11-09 14:59:51 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (19ms)
+2026-11-09 14:59:51 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:59:51 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 14:59:51 [INFO]: GET /js/app.js → 304 (2ms)
+2026-11-09 14:59:52 [INFO]: GET /api/health → 304 (11ms)
+2026-11-09 14:59:52 [INFO]: GET /api/produtos?db=mongodb → 304 (20ms)
+2026-11-09 14:59:52 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 14:59:52 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:59:52 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 14:59:52 [INFO]: GET /js/app.js → 304 (4ms)
+2026-11-09 14:59:52 [INFO]: GET /api/health → 304 (7ms)
+2026-11-09 14:59:52 [INFO]: GET /api/produtos?db=mongodb → 304 (33ms)
+2026-11-09 14:59:52 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (16ms)
+2026-11-09 14:59:52 [INFO]: GET / → 304 (1ms)
+2026-11-09 14:59:52 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 14:59:52 [INFO]: GET /js/app.js → 304 (23ms)
+2026-11-09 14:59:52 [INFO]: GET /api/health → 304 (10ms)
+2026-11-09 14:59:52 [INFO]: GET /api/produtos?db=mongodb → 304 (44ms)
+2026-11-09 14:59:52 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (11ms)
+2026-11-09 14:59:55 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 14:59:55 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 15:05:30 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 15:05:30 [INFO]: 📊 Status das conexões:
+2026-11-09 15:05:30 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 15:05:49 [INFO]: GET / → 304 (10ms)
+2026-11-09 15:05:49 [INFO]: GET /css/style.css → 304 (4ms)
+2026-11-09 15:05:49 [INFO]: GET /js/app.js → 200 (107ms)
+2026-11-09 15:05:49 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (27ms)
+2026-11-09 15:05:50 [INFO]: GET /api/health → 304 (124ms)
+2026-11-09 15:05:50 [INFO]: GET /api/produtos?db=mongodb → 304 (154ms)
+2026-11-09 15:05:50 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (17ms)
+2026-11-09 15:05:53 [INFO]: GET /api/produtos?db=mongodb → 304 (40ms)
+2026-11-09 15:05:55 [INFO]: GET /movimentacoes.html → 404 (2ms)
+2026-11-09 15:05:55 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (3ms)
+2026-11-09 15:05:57 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 15:05:57 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 15:05:57 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (3ms)
+2026-11-09 15:06:12 [INFO]: GET /api/previsao/relatorio?db=mongodb → 200 (259ms)
+2026-11-09 15:06:57 [INFO]: GET / → 304 (1ms)
+2026-11-09 15:06:57 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:06:57 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 15:06:57 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 15:06:57 [INFO]: GET /api/health → 304 (116ms)
+2026-11-09 15:06:57 [INFO]: GET /api/produtos?db=mongodb → 304 (100ms)
+2026-11-09 15:06:57 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (16ms)
+2026-11-09 15:07:12 [INFO]: GET / → 304 (1ms)
+2026-11-09 15:07:12 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 15:07:12 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 15:07:12 [INFO]: GET /api/health → 304 (13ms)
+2026-11-09 15:07:12 [INFO]: GET /api/produtos?db=mongodb → 304 (20ms)
+2026-11-09 15:07:12 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (10ms)
+2026-11-09 15:07:12 [INFO]: GET / → 304 (1ms)
+2026-11-09 15:07:12 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 15:07:12 [INFO]: GET /js/app.js → 304 (4ms)
+2026-11-09 15:07:12 [INFO]: GET /api/health → 304 (19ms)
+2026-11-09 15:07:13 [INFO]: GET /api/produtos?db=mongodb → 304 (35ms)
+2026-11-09 15:07:13 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (13ms)
+2026-11-09 15:07:13 [INFO]: GET / → 304 (1ms)
+2026-11-09 15:07:13 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 15:07:13 [INFO]: GET /css/style.css → 304 (5ms)
+2026-11-09 15:07:13 [INFO]: GET /api/health → 304 (7ms)
+2026-11-09 15:07:13 [INFO]: GET /api/produtos?db=mongodb → 304 (36ms)
+2026-11-09 15:07:13 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (15ms)
+2026-11-09 15:07:15 [INFO]: GET / → 304 (1ms)
+2026-11-09 15:07:15 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 15:07:15 [INFO]: GET /js/app.js → 304 (8ms)
+2026-11-09 15:07:15 [INFO]: GET /api/health → 304 (6ms)
+2026-11-09 15:07:15 [INFO]: GET /api/produtos?db=mongodb → 304 (37ms)
+2026-11-09 15:07:15 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 15:07:15 [INFO]: GET / → 304 (2ms)
+2026-11-09 15:07:15 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 15:07:15 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 15:07:16 [INFO]: GET /api/health → 304 (10ms)
+2026-11-09 15:07:16 [INFO]: GET /api/produtos?db=mongodb → 304 (40ms)
+2026-11-09 15:07:16 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 15:07:23 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 15:07:23 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:07:36 [INFO]: GET /api/produtos?db=mongodb → 304 (17ms)
+2026-11-09 15:07:36 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (10ms)
+2026-11-09 15:07:38 [INFO]: GET /api/produtos?db=mongodb → 304 (14ms)
+2026-11-09 15:07:41 [INFO]: GET /movimentacoes.html → 404 (1ms)
+2026-11-09 15:07:41 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 15:07:48 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 15:07:48 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (0ms)
+2026-11-09 15:07:49 [INFO]: GET / → 304 (1ms)
+2026-11-09 15:07:49 [INFO]: GET /css/style.css → 304 (5ms)
+2026-11-09 15:07:49 [INFO]: GET /js/app.js → 304 (21ms)
+2026-11-09 15:07:49 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (35ms)
+2026-11-09 15:07:50 [INFO]: GET /api/health → 304 (38ms)
+2026-11-09 15:07:50 [INFO]: GET /api/produtos?db=mongodb → 304 (48ms)
+2026-11-09 15:07:50 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 15:07:50 [INFO]: GET / → 304 (3ms)
+2026-11-09 15:07:50 [INFO]: GET /css/style.css → 304 (5ms)
+2026-11-09 15:07:50 [INFO]: GET /js/app.js → 304 (4ms)
+2026-11-09 15:07:50 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (14ms)
+2026-11-09 15:07:50 [INFO]: GET /api/health → 304 (52ms)
+2026-11-09 15:07:51 [INFO]: GET /api/produtos?db=mongodb → 304 (81ms)
+2026-11-09 15:07:51 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 15:07:53 [INFO]: GET /api/produtos?db=mongodb → 304 (17ms)
+2026-11-09 15:07:53 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 15:07:55 [INFO]: GET /api/produtos?db=mongodb → 304 (30ms)
+2026-11-09 15:09:27 [INFO]: GET /movimentacoes.html → 404 (3ms)
+2026-11-09 15:09:27 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:10:34 [INFO]: GET /movimentacoes.html → 404 (1ms)
+2026-11-09 15:10:35 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (14ms)
+2026-11-09 15:10:35 [INFO]: GET /movimentacoes.html → 404 (2ms)
+2026-11-09 15:10:35 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:10:35 [INFO]: GET /movimentacoes.html → 404 (1ms)
+2026-11-09 15:10:35 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:10:35 [INFO]: GET /movimentacoes.html → 404 (1ms)
+2026-11-09 15:10:35 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:10:35 [INFO]: GET /movimentacoes.html → 404 (1ms)
+2026-11-09 15:10:35 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 15:10:37 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 15:10:37 [INFO]: GET /css/style.css → 304 (41ms)
+2026-11-09 15:10:37 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 15:10:39 [INFO]: GET / → 304 (1ms)
+2026-11-09 15:10:39 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 15:10:39 [INFO]: GET /js/app.js → 304 (2ms)
+2026-11-09 15:10:39 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (10ms)
+2026-11-09 15:10:39 [INFO]: GET /api/health → 304 (87ms)
+2026-11-09 15:10:39 [INFO]: GET /api/produtos?db=mongodb → 304 (59ms)
+2026-11-09 15:10:39 [INFO]: GET / → 304 (6ms)
+2026-11-09 15:10:39 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 15:10:39 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 15:10:39 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 15:10:39 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:10:39 [INFO]: GET / → 304 (1ms)
+2026-11-09 15:10:39 [INFO]: GET /css/style.css → 304 (19ms)
+2026-11-09 15:10:39 [INFO]: GET /js/app.js → 304 (24ms)
+2026-11-09 15:10:39 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (6ms)
+2026-11-09 15:10:39 [INFO]: GET / → 304 (6ms)
+2026-11-09 15:10:39 [INFO]: GET /api/health → 200 (45ms)
+2026-11-09 15:10:39 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 15:10:39 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 15:10:39 [INFO]: GET /js/app.js → 304 (3ms)
+2026-11-09 15:10:40 [INFO]: GET /api/health → 200 (57ms)
+2026-11-09 15:10:40 [INFO]: GET /api/produtos?db=mongodb → 200 (77ms)
+2026-11-09 15:10:40 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 200 (26ms)
+2026-11-09 15:23:14 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 15:23:14 [INFO]: 📊 Status das conexões:
+2026-11-09 15:23:14 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 15:23:51 [INFO]: GET /movimentacoes.html → 404 (16ms)
+2026-11-09 15:23:51 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:24:17 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 15:24:17 [INFO]: 📊 Status das conexões:
+2026-11-09 15:24:17 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 15:24:40 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (17ms)
+2026-11-09 15:24:41 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 15:24:41 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 15:24:43 [INFO]: GET / → 200 (9ms)
+2026-11-09 15:24:43 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:24:43 [INFO]: GET /css/style.css → 304 (10ms)
+2026-11-09 15:24:43 [INFO]: GET /js/app.js → 200 (2ms)
+2026-11-09 15:24:43 [INFO]: GET /api/health → 304 (59ms)
+2026-11-09 15:24:43 [INFO]: GET /api/produtos?db=mongodb → 304 (46ms)
+2026-11-09 15:24:43 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (16ms)
+2026-11-09 15:24:43 [INFO]: GET / → 304 (1ms)
+2026-11-09 15:24:43 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (5ms)
+2026-11-09 15:24:43 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 15:24:43 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 15:24:44 [INFO]: GET / → 304 (9ms)
+2026-11-09 15:24:44 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (9ms)
+2026-11-09 15:24:44 [INFO]: GET / → 304 (29ms)
+2026-11-09 15:24:44 [INFO]: GET /css/style.css → 304 (52ms)
+2026-11-09 15:24:44 [INFO]: GET /js/app.js → 304 (82ms)
+2026-11-09 15:24:44 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:24:44 [INFO]: GET /css/style.css → 200 (17ms)
+2026-11-09 15:24:44 [INFO]: GET /js/app.js → 200 (28ms)
+2026-11-09 15:24:44 [INFO]: GET / → 304 (14ms)
+2026-11-09 15:24:44 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:24:44 [INFO]: GET /js/app.js → 200 (31ms)
+2026-11-09 15:24:44 [INFO]: GET /css/style.css → 304 (8ms)
+2026-11-09 15:24:44 [INFO]: GET / → 304 (11ms)
+2026-11-09 15:24:44 [INFO]: GET /api/health → 200 (51ms)
+2026-11-09 15:24:44 [INFO]: GET /api/produtos?db=mongodb → 200 (116ms)
+2026-11-09 15:24:44 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (3ms)
+2026-11-09 15:24:44 [INFO]: GET /css/style.css → 304 (5ms)
+2026-11-09 15:24:44 [INFO]: GET /js/app.js → 304 (8ms)
+2026-11-09 15:24:44 [INFO]: GET / → 304 (4ms)
+2026-11-09 15:24:44 [INFO]: GET /api/produtos?db=mongodb → 200 (63ms)
+2026-11-09 15:24:44 [INFO]: GET /api/health → 200 (75ms)
+2026-11-09 15:24:44 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (3ms)
+2026-11-09 15:24:44 [INFO]: GET /css/style.css → 304 (8ms)
+2026-11-09 15:24:44 [INFO]: GET /js/app.js → 304 (11ms)
+2026-11-09 15:24:44 [INFO]: GET / → 304 (1ms)
+2026-11-09 15:24:45 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 15:24:45 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (67ms)
+2026-11-09 15:24:45 [INFO]: GET /js/app.js → 304 (2ms)
+2026-11-09 15:24:45 [INFO]: GET / → 304 (27ms)
+2026-11-09 15:24:45 [INFO]: GET /css/style.css → 304 (7ms)
+2026-11-09 15:24:45 [INFO]: GET /js/app.js → 304 (25ms)
+2026-11-09 15:24:45 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (5ms)
+2026-11-09 15:24:45 [INFO]: GET /api/health → 200 (14ms)
+2026-11-09 15:24:45 [INFO]: GET /api/produtos?db=mongodb → 200 (31ms)
+2026-11-09 15:24:45 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (24ms)
+2026-11-09 15:24:47 [INFO]: GET /api/produtos?db=mongodb → 304 (45ms)
+2026-11-09 15:25:30 [INFO]: GET /api/produtos?db=mongodb → 304 (19ms)
+2026-11-09 15:25:30 [INFO]: GET /api/estoque/movimentacoes?db=mongodb → 200 (68ms)
+2026-11-09 15:25:59 [INFO]: Entrada registrada: 1x produto 6af2059c51fad78589185996
+2026-11-09 15:25:59 [INFO]: POST /api/estoque/entrada?db=mongodb → 200 (103ms)
+2026-11-09 15:25:59 [INFO]: GET /api/produtos?db=mongodb → 200 (21ms)
+2026-11-09 15:26:10 [INFO]: Saída registrada: 3x produto 6af2059c51fad78589185999
+2026-11-09 15:26:10 [WARN]: ⚠️ Alerta: Produto Cabo HDMI 2.0 4K 2 metros com estoque baixo (0)
+2026-11-09 15:26:10 [INFO]: POST /api/estoque/saida?db=mongodb → 200 (95ms)
+2026-11-09 15:26:10 [INFO]: GET /api/produtos?db=mongodb → 200 (15ms)
+2026-11-09 15:26:18 [INFO]: GET /api/produtos?db=mongodb → 304 (19ms)
+2026-11-09 15:26:18 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 200 (11ms)
+2026-11-09 15:26:29 [INFO]: GET / → 304 (1ms)
+2026-11-09 15:26:29 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 15:26:29 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 15:26:29 [INFO]: GET /api/health → 304 (43ms)
+2026-11-09 15:26:29 [INFO]: GET /api/produtos?db=mongodb → 304 (50ms)
+2026-11-09 15:26:29 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (11ms)
+2026-11-09 15:26:59 [INFO]: GET / → 304 (0ms)
+2026-11-09 15:26:59 [INFO]: GET /css/style.css → 304 (7ms)
+2026-11-09 15:26:59 [INFO]: GET /js/app.js → 304 (9ms)
+2026-11-09 15:26:59 [INFO]: GET /api/health → 304 (35ms)
+2026-11-09 15:26:59 [INFO]: GET /api/produtos?db=mongodb → 304 (39ms)
+2026-11-09 15:26:59 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (10ms)
+2026-11-09 15:28:26 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 15:28:27 [INFO]: 📊 Status das conexões:
+2026-11-09 15:28:27 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 15:28:42 [INFO]: GET / → 200 (15ms)
+2026-11-09 15:28:42 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 15:28:42 [INFO]: GET /js/app.js → 304 (1ms)
+2026-11-09 15:28:42 [INFO]: GET /api/health → 304 (109ms)
+2026-11-09 15:28:42 [INFO]: GET /favicon.ico → 404 (2ms)
+2026-11-09 15:28:43 [INFO]: GET /api/produtos?db=mongodb → 304 (35ms)
+2026-11-09 15:28:43 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (20ms)
+2026-11-09 15:28:48 [INFO]: GET /css/style.css → 304 (8ms)
+2026-11-09 15:28:48 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:28:59 [INFO]: GET / → 200 (4ms)
+2026-11-09 15:29:00 [INFO]: GET /css/style.css → 200 (3ms)
+2026-11-09 15:29:00 [INFO]: GET /js/app.js → 200 (34ms)
+2026-11-09 15:29:00 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (4ms)
+2026-11-09 15:29:00 [INFO]: GET /api/produtos?db=mongodb → 200 (47ms)
+2026-11-09 15:29:00 [INFO]: GET /api/health → 200 (140ms)
+2026-11-09 15:29:00 [INFO]: GET / → 200 (10ms)
+2026-11-09 15:29:00 [INFO]: GET /favicon.ico → 404 (1ms)
+2026-11-09 15:29:00 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 200 (32ms)
+2026-11-09 15:29:00 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:29:00 [INFO]: GET /css/style.css → 200 (22ms)
+2026-11-09 15:29:00 [INFO]: GET /js/app.js → 200 (13ms)
+2026-11-09 15:29:00 [INFO]: GET / → 200 (4ms)
+2026-11-09 15:29:00 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (6ms)
+2026-11-09 15:29:00 [INFO]: GET / → 200 (25ms)
+2026-11-09 15:29:01 [INFO]: GET /js/app.js → 200 (120ms)
+2026-11-09 15:29:01 [INFO]: GET /css/style.css → 200 (122ms)
+2026-11-09 15:29:01 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (3ms)
+2026-11-09 15:29:01 [INFO]: GET /css/style.css → 200 (7ms)
+2026-11-09 15:29:01 [INFO]: GET /js/app.js → 200 (11ms)
+2026-11-09 15:29:01 [INFO]: GET / → 200 (2ms)
+2026-11-09 15:29:01 [INFO]: GET /css/style.css → 200 (9ms)
+2026-11-09 15:29:01 [INFO]: GET /js/app.js → 200 (32ms)
+2026-11-09 15:29:01 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:29:01 [INFO]: GET /api/health → 200 (63ms)
+2026-11-09 15:29:01 [INFO]: GET /api/produtos?db=mongodb → 200 (72ms)
+2026-11-09 15:29:01 [INFO]: GET /favicon.ico → 404 (2ms)
+2026-11-09 15:29:01 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 200 (14ms)
+2026-11-09 15:29:25 [INFO]: GET /api/produtos?db=mongodb → 304 (34ms)
+2026-11-09 15:29:25 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (11ms)
+2026-11-09 15:29:27 [INFO]: GET /api/produtos?db=mongodb → 304 (38ms)
+2026-11-09 15:29:29 [INFO]: GET /api/produtos?db=mongodb → 304 (39ms)
+2026-11-09 15:29:29 [INFO]: GET /api/estoque/movimentacoes?db=mongodb → 200 (81ms)
+2026-11-09 15:29:57 [INFO]: GET /api/previsao/relatorio?db=mongodb → 200 (258ms)
+2026-11-09 15:30:04 [INFO]: POST /api/previsao/alertas?db=mongodb → 200 (386ms)
+2026-11-09 15:30:18 [INFO]: POST /api/nosql/migrar/mongo-para-mysql → 200 (319ms)
+2026-11-09 15:31:30 [INFO]: GET / → 200 (2ms)
+2026-11-09 15:31:30 [INFO]: GET /css/style.css → 200 (6ms)
+2026-11-09 15:31:30 [INFO]: GET /js/app.js → 200 (5ms)
+2026-11-09 15:31:30 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 15:31:30 [INFO]: GET / → 200 (2ms)
+2026-11-09 15:31:30 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (3ms)
+2026-11-09 15:31:30 [INFO]: GET /css/style.css → 200 (23ms)
+2026-11-09 15:31:30 [INFO]: GET /js/app.js → 200 (38ms)
+2026-11-09 15:31:30 [INFO]: GET / → 200 (44ms)
+2026-11-09 15:31:30 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (6ms)
+2026-11-09 15:31:30 [INFO]: GET /css/style.css → 200 (2ms)
+2026-11-09 15:31:31 [INFO]: GET / → 200 (4ms)
+2026-11-09 15:31:31 [INFO]: GET /js/app.js → 200 (10ms)
+2026-11-09 15:31:31 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 15:31:31 [INFO]: GET /css/style.css → 200 (2ms)
+2026-11-09 15:31:31 [INFO]: GET /js/app.js → 200 (1ms)
+2026-11-09 15:31:31 [INFO]: GET / → 200 (3ms)
+2026-11-09 15:31:31 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (4ms)
+2026-11-09 15:31:31 [INFO]: GET / → 200 (22ms)
+2026-11-09 15:31:31 [INFO]: GET /css/style.css → 200 (19ms)
+2026-11-09 15:31:31 [INFO]: GET /js/app.js → 200 (15ms)
+2026-11-09 15:31:31 [INFO]: GET /css/style.css → 200 (2ms)
+2026-11-09 15:31:31 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (6ms)
+2026-11-09 15:31:31 [INFO]: GET /js/app.js → 200 (14ms)
+2026-11-09 15:31:31 [INFO]: GET / → 200 (10ms)
+2026-11-09 15:31:31 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 15:31:31 [INFO]: GET /css/style.css → 200 (5ms)
+2026-11-09 15:31:31 [INFO]: GET /js/app.js → 200 (9ms)
+2026-11-09 15:31:31 [INFO]: GET /api/health → 200 (44ms)
+2026-11-09 15:31:31 [INFO]: GET /api/produtos?db=mongodb → 200 (20ms)
+2026-11-09 15:31:31 [INFO]: GET /favicon.ico → 404 (2ms)
+2026-11-09 15:31:32 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 15:31:37 [INFO]: GET /api/produtos?db=mongodb → 304 (37ms)
+2026-11-09 15:31:37 [INFO]: GET /api/estoque/movimentacoes?db=mongodb → 304 (70ms)
+2026-11-09 15:31:41 [INFO]: GET / → 200 (5ms)
+2026-11-09 15:31:42 [INFO]: GET /css/style.css → 200 (4ms)
+2026-11-09 15:31:42 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (3ms)
+2026-11-09 15:31:42 [INFO]: GET /js/app.js → 200 (7ms)
+2026-11-09 15:31:42 [INFO]: GET / → 200 (7ms)
+2026-11-09 15:31:42 [INFO]: GET / → 200 (2ms)
+2026-11-09 15:31:42 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:31:42 [INFO]: GET /css/style.css → 200 (6ms)
+2026-11-09 15:31:42 [INFO]: GET /js/app.js → 200 (7ms)
+2026-11-09 15:31:42 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 15:31:42 [INFO]: GET /css/style.css → 200 (6ms)
+2026-11-09 15:31:42 [INFO]: GET /js/app.js → 200 (15ms)
+2026-11-09 15:31:42 [INFO]: GET /api/health → 200 (96ms)
+2026-11-09 15:31:42 [INFO]: GET /api/produtos?db=mongodb → 200 (119ms)
+2026-11-09 15:31:42 [INFO]: GET /favicon.ico → 404 (21ms)
+2026-11-09 15:31:42 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (17ms)
+2026-11-09 15:31:51 [INFO]: POST /api/nosql/migrar/mongo-para-mysql → 200 (264ms)
+2026-11-09 16:14:15 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:14:16 [INFO]: 📊 Status das conexões:
+2026-11-09 16:14:16 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:17:14 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:17:30 [INFO]: 📊 Status das conexões:
+2026-11-09 16:17:30 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:18:04 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:18:04 [INFO]: 📊 Status das conexões:
+2026-11-09 16:18:04 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:23:05 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:23:06 [INFO]: 📊 Status das conexões:
+2026-11-09 16:23:06 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:25:22 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:25:32 [INFO]: 📊 Status das conexões:
+2026-11-09 16:25:32 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:25:58 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:25:59 [INFO]: 📊 Status das conexões:
+2026-11-09 16:25:59 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:27:46 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:27:47 [INFO]: 📊 Status das conexões:
+2026-11-09 16:27:47 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:28:30 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:28:45 [INFO]: 📊 Status das conexões:
+2026-11-09 16:28:45 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:34:45 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:35:01 [INFO]: 📊 Status das conexões:
+2026-11-09 16:35:01 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:35:25 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:35:26 [INFO]: 📊 Status das conexões:
+2026-11-09 16:35:26 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:36:16 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:36:17 [INFO]: 📊 Status das conexões:
+2026-11-09 16:36:17 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:36:48 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:36:57 [INFO]: 📊 Status das conexões:
+2026-11-09 16:36:57 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:37:26 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:37:26 [INFO]: 📊 Status das conexões:
+2026-11-09 16:37:26 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:38:25 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:38:25 [INFO]: 📊 Status das conexões:
+2026-11-09 16:38:25 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:47:08 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:47:09 [INFO]: 📊 Status das conexões:
+2026-11-09 16:47:09 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:48:11 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:48:11 [INFO]: 📊 Status das conexões:
+2026-11-09 16:48:11 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 16:49:29 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 16:49:38 [INFO]: 📊 Status das conexões:
+2026-11-09 16:49:38 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 17:01:02 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 17:01:03 [INFO]: 📊 Status das conexões:
+2026-11-09 17:01:03 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 17:16:08 [INFO]: GET / → 200 (16ms)
+2026-11-09 17:16:08 [INFO]: GET /js/app.js → 304 (6ms)
+2026-11-09 17:16:08 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (6ms)
+2026-11-09 17:16:08 [INFO]: GET /css/style.css → 200 (42ms)
+2026-11-09 17:16:08 [INFO]: GET /api/health → 200 (6ms)
+2026-11-09 17:16:08 [INFO]: GET /api/produtos?db=mongodb → 200 (46ms)
+2026-11-09 17:16:08 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (19ms)
+2026-11-09 17:16:09 [INFO]: GET / → 304 (3ms)
+2026-11-09 17:16:09 [INFO]: GET /js/app.js → 304 (3ms)
+2026-11-09 17:16:09 [INFO]: GET /css/style.css → 304 (4ms)
+2026-11-09 17:16:09 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (8ms)
+2026-11-09 17:16:09 [INFO]: GET /api/health → 304 (2ms)
+2026-11-09 17:16:09 [INFO]: GET /api/produtos?db=mongodb → 304 (30ms)
+2026-11-09 17:16:09 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (13ms)
+2026-11-09 17:16:28 [INFO]: POST /api/nosql/migrar/sqlserver-para-mongo → 200 (73ms)
+2026-11-09 17:16:50 [INFO]: POST /api/nosql/migrar/mysql-para-mongo → 200 (157ms)
+2026-11-09 17:20:14 [INFO]: 🌱 Iniciando seed de dados...
+2026-11-09 17:20:14 [INFO]: 🔄 Populando SQL Server...
+2026-11-09 17:20:14 [INFO]: 🔄 Populando MySQL...
+2026-11-09 17:20:14 [INFO]: 🔄 Populando MongoDB...
+2026-11-09 17:20:15 [INFO]:    ✅ 4 usuários
+2026-11-09 17:20:15 [INFO]:    ✅ 8 categorias
+2026-11-09 17:20:15 [INFO]:    ✅ 6 fornecedores
+2026-11-09 17:20:15 [INFO]:    ✅ 26 produtos
+2026-11-09 17:20:15 [INFO]:    ✅ 157 movimentações
+2026-11-09 17:20:15 [INFO]:    ✅ 6 alertas de estoque baixo
+2026-11-09 17:20:15 [INFO]: ✅ MongoDB populado com sucesso!
+2026-11-09 17:20:15 [INFO]:    ✅ 4 usuários
+2026-11-09 17:20:15 [INFO]:    ✅ 8 categorias
+2026-11-09 17:20:15 [INFO]:    ✅ 6 fornecedores
+2026-11-09 17:20:16 [INFO]:    ✅ 4 usuários
+2026-11-09 17:20:16 [INFO]:    ✅ 8 categorias
+2026-11-09 17:20:16 [INFO]:    ✅ 6 fornecedores
+2026-11-09 17:20:16 [INFO]:    ✅ 26 produtos
+2026-11-09 17:20:16 [INFO]:    ✅ 26 produtos
+2026-11-09 17:20:17 [INFO]:    ✅ 158 movimentações
+2026-11-09 17:20:17 [INFO]: ✅ SQL Server populado com sucesso!
+2026-11-09 17:20:20 [INFO]:    ✅ 163 movimentações
+2026-11-09 17:20:59 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 17:20:59 [INFO]: 📊 Status das conexões:
+2026-11-09 17:20:59 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 17:21:25 [INFO]: GET / → 304 (11ms)
+2026-11-09 17:21:25 [INFO]: GET /js/app.js → 304 (3ms)
+2026-11-09 17:21:25 [INFO]: GET /css/style.css → 304 (6ms)
+2026-11-09 17:21:25 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (6ms)
+2026-11-09 17:21:25 [INFO]: GET /api/health → 304 (13ms)
+2026-11-09 17:21:25 [INFO]: GET /api/produtos?db=mongodb → 200 (69ms)
+2026-11-09 17:21:25 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 200 (19ms)
+2026-11-09 17:21:37 [INFO]: POST /api/nosql/migrar/sqlserver-para-mongo → 200 (145ms)
+2026-11-09 17:21:41 [INFO]: POST /api/nosql/migrar/mongo-para-mysql → 200 (670ms)
+2026-11-09 17:21:48 [INFO]: POST /api/nosql/migrar/mysql-para-mongo → 200 (62ms)
+2026-11-09 17:23:07 [INFO]: GET / → 304 (2ms)
+2026-11-09 17:23:07 [INFO]: GET /js/app.js → 304 (3ms)
+2026-11-09 17:23:07 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (19ms)
+2026-11-09 17:23:07 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 17:23:07 [INFO]: GET /api/health → 304 (3ms)
+2026-11-09 17:23:07 [INFO]: GET / → 304 (116ms)
+2026-11-09 17:23:07 [INFO]: GET /api/produtos?db=mongodb → 200 (158ms)
+2026-11-09 17:23:07 [INFO]: GET / → 304 (1ms)
+2026-11-09 17:23:07 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (7ms)
+2026-11-09 17:23:07 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 17:23:08 [INFO]: GET /js/app.js → 304 (90ms)
+2026-11-09 17:23:08 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 17:23:08 [INFO]: GET /css/style.css → 200 (13ms)
+2026-11-09 17:23:08 [INFO]: GET /js/app.js → 200 (17ms)
+2026-11-09 17:23:08 [INFO]: GET /api/health → 304 (2ms)
+2026-11-09 17:23:08 [INFO]: GET /api/produtos?db=mongodb → 200 (57ms)
+2026-11-09 17:23:08 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (12ms)
+2026-11-09 17:25:53 [INFO]: GET / → 200 (4ms)
+2026-11-09 17:25:53 [INFO]: GET /css/style.css → 304 (3ms)
+2026-11-09 17:25:53 [INFO]: GET /js/app.js → 304 (6ms)
+2026-11-09 17:25:53 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (6ms)
+2026-11-09 17:25:53 [INFO]: GET /api/health → 304 (3ms)
+2026-11-09 17:25:53 [INFO]: GET /api/produtos?db=mongodb → 304 (122ms)
+2026-11-09 17:25:53 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (30ms)
+2026-11-09 17:26:01 [INFO]: POST /api/nosql/migrar/mongo-para-sqlserver → 404 (1ms)
+2026-11-09 17:26:05 [INFO]: POST /api/nosql/migrar/mongo-para-sqlserver → 404 (1ms)
+2026-11-09 17:27:01 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 17:27:01 [INFO]: 📊 Status das conexões:
+2026-11-09 17:27:01 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 17:27:41 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 17:27:41 [INFO]: 📊 Status das conexões:
+2026-11-09 17:27:41 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 17:28:04 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 17:28:04 [INFO]: 📊 Status das conexões:
+2026-11-09 17:28:04 [INFO]: 🚀 Servidor rodando em http://localhost:3000
+2026-11-09 17:28:08 [INFO]: GET / → 304 (11ms)
+2026-11-09 17:28:08 [INFO]: GET /css/style.css → 304 (23ms)
+2026-11-09 17:28:08 [INFO]: GET /js/app.js → 304 (7ms)
+2026-11-09 17:28:08 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (8ms)
+2026-11-09 17:28:08 [INFO]: GET /api/health → 304 (8ms)
+2026-11-09 17:28:08 [INFO]: GET /api/produtos?db=mongodb → 304 (90ms)
+2026-11-09 17:28:08 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 304 (15ms)
+2026-11-09 17:28:09 [INFO]: GET / → 304 (2ms)
+2026-11-09 17:28:09 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (2ms)
+2026-11-09 17:28:09 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 17:28:09 [INFO]: GET /js/app.js → 304 (2ms)
+2026-11-09 17:28:09 [INFO]: GET /api/health → 304 (2ms)
+2026-11-09 17:28:09 [INFO]: GET /api/produtos?db=mongodb → 304 (89ms)
+2026-11-09 17:28:09 [INFO]: GET / → 304 (12ms)
+2026-11-09 17:28:09 [INFO]: GET /css/style.css → 304 (2ms)
+2026-11-09 17:28:09 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (6ms)
+2026-11-09 17:28:09 [INFO]: GET /js/app.js → 304 (10ms)
+2026-11-09 17:28:10 [INFO]: GET /api/health → 304 (5ms)
+2026-11-09 17:28:10 [INFO]: GET /api/produtos?db=mongodb → 304 (30ms)
+2026-11-09 17:28:10 [INFO]: GET /api/estoque/alertas?resolvidos=false&db=mongodb → 200 (15ms)
+2026-11-09 17:28:18 [INFO]: POST /api/nosql/migrar/mongo-para-sqlserver → 200 (511ms)
+2026-11-09 18:08:18 [INFO]: GET /api/produtos?db=mongodb → 500 (30012ms)
+2026-11-09 18:08:46 [INFO]: GET /api/produtos?db=mongodb → 500 (30014ms)
+2026-11-09 18:14:53 [INFO]: GET /css/style.css → 304 (1ms)
+2026-11-09 18:14:53 [INFO]: GET /.well-known/appspecific/com.chrome.devtools.json → 404 (1ms)
+2026-11-09 18:14:56 [INFO]: GET /api/produtos?db=mongodb → 500 (30013ms)
+2026-11-09 18:14:58 [INFO]: GET /api/estoque/movimentacoes?db=mongodb → 500 (30006ms)
+2026-11-09 18:15:18 [INFO]: GET /api/produtos?db=mongodb → 500 (30013ms)
+2026-11-09 18:15:23 [INFO]: POST /api/nosql/backup/sqlserver → 500 (73ms)
+2026-11-09 18:17:01 [INFO]: 🔄 Conectando aos bancos de dados...
+2026-11-09 18:17:31 [INFO]: 📊 Status das conexões:
+2026-11-09 18:17:31 [INFO]: 🚀 Servidor rodando em http://localhost:3000

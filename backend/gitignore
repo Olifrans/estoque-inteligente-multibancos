@@ -1,0 +1,83 @@
+# ============================================================
+#  DEPENDÊNCIAS DO NODE.JS
+# ============================================================
+node_modules/
+jspm_packages/
+
+# ============================================================
+#  VARIÁVEIS DE AMBIENTE (CRÍTICO: NUNCA SUBA SENHAS!)
+# ============================================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# ============================================================
+#  LOGS E ARQUIVOS DE DEBUG
+# ============================================================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ============================================================
+#  DADOS DE EXECUÇÃO (Gerados pelo sistema)
+# ============================================================
+backups/
+*.pid
+*.seed
+*.pid.lock
+
+# ============================================================
+#  COBERTURA DE TESTES (Caso implemente no futuro)
+# ============================================================
+coverage/
+.nyc_output/
+
+# ============================================================
+#  ARQUIVOS DE SISTEMA OPERACIONAL
+# ============================================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+
+# ============================================================
+#  EDITORES DE CÓDIGO E IDEs
+# ============================================================
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# JetBrains (WebStorm, IntelliJ, etc)
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ============================================================
+#  BUILD / COMPILAÇÃO (Caso use TypeScript ou bundlers no futuro)
+# ============================================================
+dist/
+build/
